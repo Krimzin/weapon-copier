@@ -2,7 +2,7 @@
 	"name": "Weapon Copier",
 	"description": "Enables copying weapons in the inventory.",
 	"author": "Krimzin",
-	"contact": "",
+	"contact": "https://www.modworkshop.net/mod/24521",
 	"version": "1.0.0",
 	"hooks": [
 		{
