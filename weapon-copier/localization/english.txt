@@ -1,0 +1,15 @@
+{
+	"weapon_copier_select": "Copy Weapon",
+	"weapon_copier_cancel": "Cancel",
+	"weapon_copier_place": "Place Weapon",
+	"weapon_copier_copying": "Copying",
+	"weapon_copier_too_expensive": "Insufficient funds",
+	"weapon_copier_need_cash_coins": "You need $cash and $coins Continental Coins to copy this weapon.",
+	"weapon_copier_need_cash": "You need $cash to copy this weapon.",
+	"weapon_copier_need_coins": "You need $coins to copy this weapon.",
+	"weapon_copier_confirmation": "Are you sure?",
+	"weapon_copier_cash_coin_cost": "Copying this weapon will cost $cash and $coins Continental Coins.",
+	"weapon_copier_cash_cost": "Copying this weapon will cost $cash.",
+	"weapon_copier_coin_cost": "Copying this weapon will cost $coins.",
+	"weapon_copier_weapon_sold": "The weapon in this slot will be sold for $cash."
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Weapon Copier",
+	"description": "Enables copying weapons in the inventory.",
+	"author": "Krimzin",
+	"contact": "",
+	"version": "1.0.0",
+	"hooks": [
+		{
+			"script_path": "lua/hooks/BlackMarketGui.lua",
+			"hook_id": "lib/managers/menu/blackmarketgui"
+		},
+		{
+			"script_path": "lua/hooks/LocalizationManager.lua",
+			"hook_id": "lib/managers/localizationmanager"
+		}
+	]
+}
