@@ -3,7 +3,7 @@
 	"description": "Enables copying weapons in the inventory.",
 	"author": "Krimzin",
 	"contact": "https://www.modworkshop.net/mod/24521",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"hooks": [
 		{
 			"script_path": "lua/hooks/BlackMarketGui.lua",
