@@ -124,6 +124,10 @@ function WeaponCopier.copy(slot, weapon, mods, missing_mods)
 	if weapon.custom_colors then
 		new_weapon.custom_colors = clone(weapon.custom_colors)
 	end
+	
+	if weapon.custom_name then
+		new_weapon.custom_name = weapon.custom_name
+	end
 
 	WeaponCopier.selected_index = nil
 
